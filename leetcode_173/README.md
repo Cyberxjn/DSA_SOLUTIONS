@@ -16,7 +16,7 @@ You may assume that next() calls will always be valid. That is, there will be at
  
 
 Example 1:
-
+https://assets.leetcode.com/uploads/2018/12/25/bst-tree.png
 
 Input
 ["BSTIterator", "next", "next", "hasNext", "next", "hasNext", "next", "hasNext", "next", "hasNext"]
