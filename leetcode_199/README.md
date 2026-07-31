@@ -17,7 +17,7 @@ Explanation:
 
 Example 2:
 
-![Uploading image.png…]()
+<img width="829" height="443" alt="image" src="https://github.com/user-attachments/assets/a9d7e7e4-125d-49be-99c2-5d0c80217d9d" />
 
 
 Input: root = [1,2,3,4,null,null,null,5]
