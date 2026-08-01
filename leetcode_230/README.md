@@ -6,10 +6,15 @@ Given the root of a binary search tree, and an integer k, return the kth smalles
 
 Example 1:
 
+<img width="212" height="301" alt="image" src="https://github.com/user-attachments/assets/30d53cf7-937a-4d56-9f78-ee447795c8a3" />
+
 
 Input: root = [3,1,4,null,2], k = 1
 Output: 1
+
 Example 2:
+
+<img width="382" height="302" alt="image" src="https://github.com/user-attachments/assets/04105b00-55a4-42a8-9e1a-7db6fb832e97" />
 
 
 Input: root = [5,3,6,2,4,null,null,1], k = 3
