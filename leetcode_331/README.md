@@ -1,3 +1,5 @@
+331. Verify Preorder Serialization of a Binary Tree
+
 One way to serialize a binary tree is to use preorder traversal. When we encounter a non-null node, we record the node's value. If it is a null node, we record using a sentinel value such as '#'.
 
 <img width="362" height="293" alt="image" src="https://github.com/user-attachments/assets/485bc074-5581-4413-8dbf-f0b30afe0987" />
