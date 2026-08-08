@@ -8,12 +8,14 @@ Nary-Tree input serialization is represented in their level order traversal, eac
 
 Example 1:
 
+<img width="781" height="502" alt="image" src="https://github.com/user-attachments/assets/9c8b6f8e-a490-4b2d-b138-0314fb7e7deb" />
 
 
 Input: root = [1,null,3,2,4,null,5,6]
 Output: [[1],[3,2,4],[5,6]]
 Example 2:
 
+<img width="596" height="541" alt="image" src="https://github.com/user-attachments/assets/aa1d3328-fd69-40cb-951e-11007b42e5dd" />
 
 
 Input: root = [1,null,2,3,4,5,null,null,6,7,null,8,null,9,10,null,null,11,null,12,null,13,null,null,14]
