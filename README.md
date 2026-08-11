@@ -152,6 +152,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | ------- |
 | [0437-path-sum-iii](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0449-serialize-and-deserialize-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0450-delete-node-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -162,6 +163,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | ------- |
 | [0437-path-sum-iii](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0449-serialize-and-deserialize-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0450-delete-node-in-a-bst) |
 ## String
 |  |
 | ------- |
@@ -178,4 +180,5 @@ It motivates me to keep solving and sharing more DSA problems every day.
 |  |
 | ------- |
 | [0449-serialize-and-deserialize-bst](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0449-serialize-and-deserialize-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
