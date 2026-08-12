@@ -153,17 +153,20 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | [0437-path-sum-iii](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0450-delete-node-in-a-bst) |
+| [0508-most-frequent-subtree-sum](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0508-most-frequent-subtree-sum) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0437-path-sum-iii](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0449-serialize-and-deserialize-bst) |
+| [0508-most-frequent-subtree-sum](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0508-most-frequent-subtree-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0437-path-sum-iii](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0450-delete-node-in-a-bst) |
+| [0508-most-frequent-subtree-sum](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0508-most-frequent-subtree-sum) |
 ## String
 |  |
 | ------- |
@@ -181,4 +184,12 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | ------- |
 | [0449-serialize-and-deserialize-bst](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0450-delete-node-in-a-bst) |
+## Hash Table
+|  |
+| ------- |
+| [0508-most-frequent-subtree-sum](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0508-most-frequent-subtree-sum) |
+## DP on Trees
+|  |
+| ------- |
+| [0508-most-frequent-subtree-sum](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0508-most-frequent-subtree-sum) |
 <!---LeetCode Topics End-->
