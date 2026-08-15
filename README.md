@@ -156,6 +156,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | [0508-most-frequent-subtree-sum](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0538-convert-bst-to-greater-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -164,6 +165,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | [0508-most-frequent-subtree-sum](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0538-convert-bst-to-greater-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -173,6 +175,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | [0508-most-frequent-subtree-sum](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0538-convert-bst-to-greater-tree) |
 ## String
 |  |
 | ------- |
@@ -192,6 +195,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | ------- |
 | [0449-serialize-and-deserialize-bst](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0450-delete-node-in-a-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0538-convert-bst-to-greater-tree) |
 ## Hash Table
 |  |
 | ------- |
