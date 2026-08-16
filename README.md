@@ -157,6 +157,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | [0513-find-bottom-left-tree-value](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0538-convert-bst-to-greater-tree) |
+| [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -204,4 +205,8 @@ It motivates me to keep solving and sharing more DSA problems every day.
 |  |
 | ------- |
 | [0508-most-frequent-subtree-sum](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0508-most-frequent-subtree-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 <!---LeetCode Topics End-->
