@@ -191,6 +191,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 |  |
 | ------- |
 | [0449-serialize-and-deserialize-bst](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0449-serialize-and-deserialize-bst) |
+| [0707-design-linked-list](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0707-design-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -209,4 +210,8 @@ It motivates me to keep solving and sharing more DSA problems every day.
 |  |
 | ------- |
 | [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
