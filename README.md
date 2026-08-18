@@ -214,4 +214,5 @@ It motivates me to keep solving and sharing more DSA problems every day.
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0707-design-linked-list) |
+| [0725-split-linked-list-in-parts](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0725-split-linked-list-in-parts) |
 <!---LeetCode Topics End-->
