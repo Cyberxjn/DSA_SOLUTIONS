@@ -158,6 +158,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0538-convert-bst-to-greater-tree) |
 | [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
+| [1367-linked-list-in-binary-tree](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1367-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -167,6 +168,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | [0513-find-bottom-left-tree-value](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0538-convert-bst-to-greater-tree) |
+| [1367-linked-list-in-binary-tree](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1367-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -177,6 +179,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | [0513-find-bottom-left-tree-value](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0538-convert-bst-to-greater-tree) |
+| [1367-linked-list-in-binary-tree](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1367-linked-list-in-binary-tree) |
 ## String
 |  |
 | ------- |
@@ -220,6 +223,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | [0817-linked-list-components](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0817-linked-list-components) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1019-next-greater-node-in-linked-list) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1367-linked-list-in-binary-tree](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1367-linked-list-in-binary-tree) |
 ## Array
 |  |
 | ------- |
