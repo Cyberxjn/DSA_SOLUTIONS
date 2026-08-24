@@ -195,6 +195,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | ------- |
 | [0449-serialize-and-deserialize-bst](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0449-serialize-and-deserialize-bst) |
 | [0707-design-linked-list](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0707-design-linked-list) |
+| [1472-design-browser-history](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1472-design-browser-history) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -224,17 +225,28 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | [1019-next-greater-node-in-linked-list](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1019-next-greater-node-in-linked-list) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1367-linked-list-in-binary-tree](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1367-linked-list-in-binary-tree) |
+| [1472-design-browser-history](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1472-design-browser-history) |
 ## Array
 |  |
 | ------- |
 | [0817-linked-list-components](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0817-linked-list-components) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1019-next-greater-node-in-linked-list) |
+| [1472-design-browser-history](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1472-design-browser-history) |
 ## Stack
 |  |
 | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1019-next-greater-node-in-linked-list) |
+| [1472-design-browser-history](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1472-design-browser-history) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1019-next-greater-node-in-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
