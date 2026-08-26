@@ -196,6 +196,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | [0449-serialize-and-deserialize-bst](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0449-serialize-and-deserialize-bst) |
 | [0707-design-linked-list](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0707-design-linked-list) |
 | [1472-design-browser-history](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1472-design-browser-history) |
+| [1670-design-front-middle-back-queue](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1670-design-front-middle-back-queue) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -227,12 +228,14 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | [1367-linked-list-in-binary-tree](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1367-linked-list-in-binary-tree) |
 | [1472-design-browser-history](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1472-design-browser-history) |
 | [1669-merge-in-between-linked-lists](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1669-merge-in-between-linked-lists) |
+| [1670-design-front-middle-back-queue](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1670-design-front-middle-back-queue) |
 ## Array
 |  |
 | ------- |
 | [0817-linked-list-components](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0817-linked-list-components) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1019-next-greater-node-in-linked-list) |
 | [1472-design-browser-history](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1472-design-browser-history) |
+| [1670-design-front-middle-back-queue](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1670-design-front-middle-back-queue) |
 ## Stack
 |  |
 | ------- |
@@ -246,8 +249,14 @@ It motivates me to keep solving and sharing more DSA problems every day.
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1472-design-browser-history) |
+| [1670-design-front-middle-back-queue](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1670-design-front-middle-back-queue) |
 ## Data Stream
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1472-design-browser-history) |
+| [1670-design-front-middle-back-queue](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1670-design-front-middle-back-queue) |
+## Queue
+|  |
+| ------- |
+| [1670-design-front-middle-back-queue](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1670-design-front-middle-back-queue) |
 <!---LeetCode Topics End-->
