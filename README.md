@@ -229,6 +229,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | [1472-design-browser-history](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1472-design-browser-history) |
 | [1669-merge-in-between-linked-lists](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1669-merge-in-between-linked-lists) |
 | [1670-design-front-middle-back-queue](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1670-design-front-middle-back-queue) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -259,4 +260,8 @@ It motivates me to keep solving and sharing more DSA problems every day.
 |  |
 | ------- |
 | [1670-design-front-middle-back-queue](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1670-design-front-middle-back-queue) |
+## Two Pointers
+|  |
+| ------- |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1721-swapping-nodes-in-a-linked-list) |
 <!---LeetCode Topics End-->
