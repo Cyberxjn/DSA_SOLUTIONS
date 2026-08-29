@@ -197,6 +197,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | [0707-design-linked-list](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0707-design-linked-list) |
 | [1472-design-browser-history](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1472-design-browser-history) |
 | [1670-design-front-middle-back-queue](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1670-design-front-middle-back-queue) |
+| [1797-design-authentication-manager](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1797-design-authentication-manager) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -209,6 +210,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | [0508-most-frequent-subtree-sum](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0508-most-frequent-subtree-sum) |
 | [0817-linked-list-components](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0817-linked-list-components) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1797-design-authentication-manager](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1797-design-authentication-manager) |
 ## DP on Trees
 |  |
 | ------- |
@@ -230,6 +232,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | [1669-merge-in-between-linked-lists](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1669-merge-in-between-linked-lists) |
 | [1670-design-front-middle-back-queue](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1670-design-front-middle-back-queue) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [1797-design-authentication-manager](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1797-design-authentication-manager) |
 ## Array
 |  |
 | ------- |
@@ -251,6 +254,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | ------- |
 | [1472-design-browser-history](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1472-design-browser-history) |
 | [1670-design-front-middle-back-queue](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1670-design-front-middle-back-queue) |
+| [1797-design-authentication-manager](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1797-design-authentication-manager) |
 ## Data Stream
 |  |
 | ------- |
