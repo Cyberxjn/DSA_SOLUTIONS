@@ -185,6 +185,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0344-reverse-string) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0449-serialize-and-deserialize-bst) |
 ## Breadth-First Search
 |  |
@@ -273,6 +274,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0202-happy-number) |
+| [0344-reverse-string](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0344-reverse-string) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## String Matching
 |  |
