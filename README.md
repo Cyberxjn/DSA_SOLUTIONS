@@ -195,6 +195,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | [0541-reverse-string-ii](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0696-count-binary-substrings) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -302,6 +303,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | [0557-reverse-words-in-a-string-iii](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0696-count-binary-substrings) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## String Matching
 |  |
