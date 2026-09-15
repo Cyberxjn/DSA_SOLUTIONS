@@ -262,6 +262,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | [0455-assign-cookies](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0455-assign-cookies) |
 | [0817-linked-list-components](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0817-linked-list-components) |
 | [0821-shortest-distance-to-a-character](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0821-shortest-distance-to-a-character) |
+| [0832-flipping-an-image](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0832-flipping-an-image) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1019-next-greater-node-in-linked-list) |
 | [1472-design-browser-history](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1472-design-browser-history) |
 | [1670-design-front-middle-back-queue](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1670-design-front-middle-back-queue) |
@@ -307,6 +308,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | [0680-valid-palindrome-ii](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0821-shortest-distance-to-a-character) |
+| [0832-flipping-an-image](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0832-flipping-an-image) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## String Matching
 |  |
@@ -351,4 +353,16 @@ It motivates me to keep solving and sharing more DSA problems every day.
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0455-assign-cookies) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0832-flipping-an-image) |
+## Matrix
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0832-flipping-an-image) |
+## Simulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
