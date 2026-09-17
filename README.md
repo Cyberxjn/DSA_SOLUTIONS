@@ -197,6 +197,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | [0680-valid-palindrome-ii](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0821-shortest-distance-to-a-character) |
+| [0844-backspace-string-compare](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0844-backspace-string-compare) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -269,6 +270,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 ## Stack
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0844-backspace-string-compare) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1019-next-greater-node-in-linked-list) |
 | [1472-design-browser-history](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1472-design-browser-history) |
 ## Monotonic Stack
@@ -309,6 +311,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | [0696-count-binary-substrings](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0844-backspace-string-compare) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## String Matching
 |  |
@@ -365,4 +368,5 @@ It motivates me to keep solving and sharing more DSA problems every day.
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
