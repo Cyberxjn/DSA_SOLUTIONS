@@ -259,6 +259,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0018-4sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0455-assign-cookies) |
@@ -296,6 +297,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0151-reverse-words-in-a-string) |
@@ -342,6 +344,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0018-4sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0455-assign-cookies) |
