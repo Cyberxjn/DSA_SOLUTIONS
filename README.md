@@ -219,6 +219,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0449-serialize-and-deserialize-bst) |
@@ -264,6 +265,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | [0018-4sum](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0018-4sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0455-assign-cookies) |
@@ -309,6 +311,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
@@ -349,6 +352,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -372,6 +376,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0832-flipping-an-image](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0832-flipping-an-image) |
 ## Matrix
 |  |
@@ -382,4 +387,8 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | ------- |
 | [0832-flipping-an-image](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0844-backspace-string-compare) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
