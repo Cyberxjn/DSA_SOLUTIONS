@@ -225,6 +225,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | [0350-intersection-of-two-arrays-ii](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0450-delete-node-in-a-bst) |
+| [0475-heaters](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0475-heaters) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Hash Table
@@ -272,6 +273,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | [0350-intersection-of-two-arrays-ii](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0457-circular-array-loop) |
+| [0475-heaters](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0475-heaters) |
 | [0817-linked-list-components](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0817-linked-list-components) |
 | [0821-shortest-distance-to-a-character](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0832-flipping-an-image) |
@@ -323,6 +325,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | [0443-string-compression](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0457-circular-array-loop) |
+| [0475-heaters](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0475-heaters) |
 | [0541-reverse-string-ii](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -366,6 +369,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | [0349-intersection-of-two-arrays](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0475-heaters) |
 ## Dynamic Programming
 |  |
 | ------- |
