@@ -201,6 +201,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | [0541-reverse-string-ii](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0541-reverse-string-ii) |
 | [0556-next-greater-element-iii](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0821-shortest-distance-to-a-character) |
@@ -241,6 +242,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | [0457-circular-array-loop](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0457-circular-array-loop) |
 | [0508-most-frequent-subtree-sum](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0508-most-frequent-subtree-sum) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0567-permutation-in-string](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0817-linked-list-components](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0817-linked-list-components) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
@@ -339,6 +341,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | [0541-reverse-string-ii](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0541-reverse-string-ii) |
 | [0556-next-greater-element-iii](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0696-count-binary-substrings) |
@@ -415,4 +418,8 @@ It motivates me to keep solving and sharing more DSA problems every day.
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
