@@ -283,6 +283,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | [0475-heaters](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0475-heaters) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0817-linked-list-components](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0817-linked-list-components) |
 | [0821-shortest-distance-to-a-character](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0832-flipping-an-image) |
@@ -292,12 +293,14 @@ It motivates me to keep solving and sharing more DSA problems every day.
 ## Stack
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0844-backspace-string-compare) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1019-next-greater-node-in-linked-list) |
 | [1472-design-browser-history](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1472-design-browser-history) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1019-next-greater-node-in-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -342,6 +345,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | [0556-next-greater-element-iii](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0567-permutation-in-string) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0696-count-binary-substrings) |
@@ -387,6 +391,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | [0475-heaters](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0475-heaters) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -395,6 +400,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0455-assign-cookies) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0680-valid-palindrome-ii](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0680-valid-palindrome-ii) |
 ## Quicksort
 |  |
