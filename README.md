@@ -373,6 +373,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0202-happy-number) |
 | [0556-next-greater-element-iii](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0556-next-greater-element-iii) |
