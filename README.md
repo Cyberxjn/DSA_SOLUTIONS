@@ -289,6 +289,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | [0832-flipping-an-image](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0832-flipping-an-image) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1019-next-greater-node-in-linked-list) |
 | [1472-design-browser-history](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1472-design-browser-history) |
+| [1480-running-sum-of-1d-array](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1480-running-sum-of-1d-array) |
 | [1670-design-front-middle-back-queue](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1670-design-front-middle-back-queue) |
 ## Stack
 |  |
@@ -428,4 +429,8 @@ It motivates me to keep solving and sharing more DSA problems every day.
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0567-permutation-in-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
