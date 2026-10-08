@@ -276,6 +276,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -331,6 +332,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0345-reverse-vowels-of-a-string) |
