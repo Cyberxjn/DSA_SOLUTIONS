@@ -273,6 +273,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
@@ -322,6 +323,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0151-reverse-words-in-a-string) |
