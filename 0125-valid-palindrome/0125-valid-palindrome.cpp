@@ -1,23 +1,27 @@
+
 class Solution {
 public:
     bool isPalindrome(string s) {
-        int i = 0;
-        int j = s.size() - 1;
+        string p = "";
 
-        while (i < j) {
-            while (i < j && !isalnum(s[i]))
-                i++;
-
-            while (i < j && !isalnum(s[j]))
-                j--;
-
-            if (tolower(s[i]) != tolower(s[j]))
-                return false;
-
-            i++;
-            j--;
+        // Sirf letters aur numbers rakho
+        for (int i = 0; i < s.size(); i++) {
+            if (isalnum(s[i])) {
+                p += tolower(s[i]);
+            }
         }
 
-        return true;
+        // Reverse string
+        string rev = "";
+        for (int i = 0; i < p.size(); i++) {
+            rev.insert(rev.begin(), p[i]);
+        }
+
+        // Compare
+        if (p == rev) {
+            return true;
+        } else {
+            return false;
+        }
     }
 };
