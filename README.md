@@ -275,6 +275,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | ------- |
 | [0018-4sum](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0189-rotate-array) |
@@ -329,6 +330,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | [0018-4sum](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0165-compare-version-numbers) |
@@ -395,6 +397,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0455-assign-cookies) |
@@ -418,6 +421,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0455-assign-cookies) |
 ## Bit Manipulation
 |  |
@@ -445,4 +449,8 @@ It motivates me to keep solving and sharing more DSA problems every day.
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1480-running-sum-of-1d-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
