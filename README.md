@@ -206,6 +206,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | [0696-count-binary-substrings](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0844-backspace-string-compare) |
+| [1763-longest-nice-substring](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1763-longest-nice-substring) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -248,6 +249,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0817-linked-list-components](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0817-linked-list-components) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1763-longest-nice-substring](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1763-longest-nice-substring) |
 | [1797-design-authentication-manager](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1797-design-authentication-manager) |
 ## DP on Trees
 |  |
@@ -257,6 +259,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 |  |
 | ------- |
 | [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
+| [1763-longest-nice-substring](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1763-longest-nice-substring) |
 ## Linked List
 |  |
 | ------- |
@@ -433,6 +436,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0832-flipping-an-image](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0832-flipping-an-image) |
+| [1763-longest-nice-substring](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1763-longest-nice-substring) |
 ## Matrix
 |  |
 | ------- |
@@ -453,6 +457,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | [0594-longest-harmonious-subsequence](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0643-maximum-average-subarray-i) |
 | [1652-defuse-the-bomb](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1652-defuse-the-bomb) |
+| [1763-longest-nice-substring](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1763-longest-nice-substring) |
 ## Prefix Sum
 |  |
 | ------- |
