@@ -280,6 +280,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0075-sort-colors) |
@@ -338,6 +339,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -408,6 +410,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
