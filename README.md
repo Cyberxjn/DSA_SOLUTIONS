@@ -186,6 +186,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0151-reverse-words-in-a-string) |
@@ -238,6 +239,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -457,6 +459,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0643-maximum-average-subarray-i) |
