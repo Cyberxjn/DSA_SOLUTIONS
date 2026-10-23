@@ -191,6 +191,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | [0125-valid-palindrome](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0165-compare-version-numbers) |
+| [0187-repeated-dna-sequences](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0392-is-subsequence) |
@@ -240,6 +241,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -386,6 +388,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0187-repeated-dna-sequences) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
@@ -394,6 +397,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0187-repeated-dna-sequences) |
 ## Math
 |  |
 | ------- |
@@ -443,6 +447,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0187-repeated-dna-sequences) |
 | [0287-find-the-duplicate-number](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0832-flipping-an-image](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0832-flipping-an-image) |
 | [1763-longest-nice-substring](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1763-longest-nice-substring) |
@@ -463,6 +468,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0187-repeated-dna-sequences) |
 | [0567-permutation-in-string](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0643-maximum-average-subarray-i) |
@@ -480,4 +486,12 @@ It motivates me to keep solving and sharing more DSA problems every day.
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0594-longest-harmonious-subsequence) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
