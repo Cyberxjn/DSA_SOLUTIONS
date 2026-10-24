@@ -228,6 +228,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -289,6 +290,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
@@ -469,6 +471,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0187-repeated-dna-sequences) |
+| [0209-minimum-size-subarray-sum](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0643-maximum-average-subarray-i) |
@@ -477,6 +480,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1480-running-sum-of-1d-array) |
 ## Bubble Sort
 |  |
