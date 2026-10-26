@@ -306,6 +306,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | [0594-longest-harmonious-subsequence](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0724-find-pivot-index) |
 | [0817-linked-list-components](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0817-linked-list-components) |
 | [0821-shortest-distance-to-a-character](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0832-flipping-an-image) |
@@ -484,6 +485,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1480-running-sum-of-1d-array) |
 ## Bubble Sort
 |  |
