@@ -208,6 +208,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | [0696-count-binary-substrings](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0844-backspace-string-compare) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1763-longest-nice-substring](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1763-longest-nice-substring) |
 ## Breadth-First Search
 |  |
@@ -488,6 +489,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | [0303-range-sum-query-immutable](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0724-find-pivot-index) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1480-running-sum-of-1d-array) |
 ## Bubble Sort
 |  |
