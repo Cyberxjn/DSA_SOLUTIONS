@@ -312,6 +312,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | [0832-flipping-an-image](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1019-next-greater-node-in-linked-list) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1472-design-browser-history](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1480-running-sum-of-1d-array) |
 | [1652-defuse-the-bomb](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1652-defuse-the-bomb) |
@@ -486,6 +487,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | [0209-minimum-size-subarray-sum](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0724-find-pivot-index) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1480-running-sum-of-1d-array) |
 ## Bubble Sort
 |  |
