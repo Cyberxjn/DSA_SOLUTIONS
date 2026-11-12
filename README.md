@@ -416,6 +416,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0202-happy-number) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0497-random-point-in-non-overlapping-rectangles) |
@@ -445,6 +446,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0392-is-subsequence) |
 ## Greedy
@@ -534,4 +536,8 @@ It motivates me to keep solving and sharing more DSA problems every day.
 |  |
 | ------- |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
