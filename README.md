@@ -188,6 +188,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0091-decode-ways](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0165-compare-version-numbers) |
@@ -447,6 +448,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0392-is-subsequence) |
 ## Greedy
