@@ -150,6 +150,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0095-unique-binary-search-trees-ii) |
 | [0437-path-sum-iii](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0450-delete-node-in-a-bst) |
@@ -174,6 +175,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0095-unique-binary-search-trees-ii) |
 | [0437-path-sum-iii](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0450-delete-node-in-a-bst) |
@@ -231,6 +233,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0095-unique-binary-search-trees-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
@@ -449,6 +452,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | ------- |
 | [0070-climbing-stairs](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0095-unique-binary-search-trees-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0392-is-subsequence) |
 ## Greedy
@@ -542,4 +546,8 @@ It motivates me to keep solving and sharing more DSA problems every day.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0070-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
