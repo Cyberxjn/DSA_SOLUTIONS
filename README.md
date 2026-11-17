@@ -454,6 +454,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | [0091-decode-ways](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0095-unique-binary-search-trees-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
@@ -472,6 +473,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0187-repeated-dna-sequences) |
 | [0287-find-the-duplicate-number](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0338-counting-bits) |
 | [0832-flipping-an-image](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0832-flipping-an-image) |
 | [1763-longest-nice-substring](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1763-longest-nice-substring) |
 ## Matrix
