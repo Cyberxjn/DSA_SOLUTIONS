@@ -190,6 +190,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0032-longest-valid-parentheses) |
 | [0091-decode-ways](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0125-valid-palindrome) |
@@ -334,6 +335,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0032-longest-valid-parentheses) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0844-backspace-string-compare) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/1019-next-greater-node-in-linked-list) |
@@ -452,6 +454,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0095-unique-binary-search-trees-ii) |
@@ -557,4 +560,8 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0131-palindrome-partitioning) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
