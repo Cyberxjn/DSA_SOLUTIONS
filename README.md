@@ -195,6 +195,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | [0097-interleaving-string](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0165-compare-version-numbers) |
 | [0187-repeated-dna-sequences](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0187-repeated-dna-sequences) |
@@ -254,6 +255,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0139-word-break](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
@@ -300,6 +302,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
@@ -461,6 +464,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | [0097-interleaving-string](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0139-word-break) |
 | [0338-counting-bits](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0392-is-subsequence) |
 ## Greedy
@@ -555,6 +559,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0139-word-break) |
 ## Backtracking
 |  |
 | ------- |
@@ -564,4 +569,12 @@ It motivates me to keep solving and sharing more DSA problems every day.
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0032-longest-valid-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
