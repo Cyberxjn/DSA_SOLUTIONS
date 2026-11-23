@@ -303,6 +303,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | [0075-sort-colors](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
@@ -465,6 +466,7 @@ It motivates me to keep solving and sharing more DSA problems every day.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Cyberxjn/DSA_SOLUTIONS/tree/master/0392-is-subsequence) |
 ## Greedy
